@@ -1,0 +1,26 @@
+c:\users\user\documents\visual studio 2015\Projects\A meal planner assignment\A meal planner assignment\bin\Debug\A meal planner assignment.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\bin\Debug\A meal planner assignment.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\bin\Debug\A meal planner assignment.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\bin\Debug\A meal planner assignment.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A meal planner assignment.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A_meal_planner_assignment.Customer_s_Information.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A_meal_planner_assignment.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A_meal_planner_assignment.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A meal planner assignment.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A meal planner assignment.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A meal planner assignment.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\A meal planner assignment\A meal planner assignment\obj\Debug\A meal planner assignment.pdb
+F:\spjdb\A meal planner assignment\bin\Debug\A meal planner assignment.exe.config
+F:\spjdb\A meal planner assignment\bin\Debug\A meal planner assignment.exe
+F:\spjdb\A meal planner assignment\bin\Debug\A meal planner assignment.pdb
+F:\spjdb\A meal planner assignment\bin\Debug\A meal planner assignment.xml
+F:\spjdb\A meal planner assignment\obj\Debug\A meal planner assignment.vbproj.AssemblyReference.cache
+F:\spjdb\A meal planner assignment\obj\Debug\A meal planner assignment.vbproj.SuggestedBindingRedirects.cache
+F:\spjdb\A meal planner assignment\obj\Debug\A_meal_planner_assignment.Customer_s_Information.resources
+F:\spjdb\A meal planner assignment\obj\Debug\A_meal_planner_assignment.Form1.resources
+F:\spjdb\A meal planner assignment\obj\Debug\A_meal_planner_assignment.Resources.resources
+F:\spjdb\A meal planner assignment\obj\Debug\A meal planner assignment.vbproj.GenerateResource.cache
+F:\spjdb\A meal planner assignment\obj\Debug\A meal planner assignment.vbproj.CoreCompileInputs.cache
+F:\spjdb\A meal planner assignment\obj\Debug\A meal planner assignment.exe
+F:\spjdb\A meal planner assignment\obj\Debug\A meal planner assignment.xml
+F:\spjdb\A meal planner assignment\obj\Debug\A meal planner assignment.pdb
